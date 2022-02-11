@@ -1,4 +1,4 @@
-# Hyper Island - STATITIC CLASS
+# Hyper Island - STATISTIC CLASS
 
 ## ABOUT MY TASK
 Statistical and Mathematics Class Assignment #1 – Hypothesis Testing
